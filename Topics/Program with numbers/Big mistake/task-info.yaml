@@ -1,0 +1,22 @@
+type: string
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 47
+    length: 45
+    placeholder_text: type your solution here
+    initial_state:
+      length: 45
+      offset: 47
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+  text: type your solution here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14189#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 05 May 2023 07:12:59 UTC"
+record: -1

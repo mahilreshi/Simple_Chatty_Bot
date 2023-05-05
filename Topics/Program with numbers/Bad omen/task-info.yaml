@@ -13,6 +13,13 @@ files:
 
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9354#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: "<html>Well done! \"+=\" means that you add something to the previous value\
+    \ of a variable. But how can we add something to the counter variable, if we don't\
+    \ know what's inside?</html>"
+  time: "Fri, 05 May 2023 07:07:11 UTC"
 record: -1
+selected_options:
+- 2
 local_check: false
