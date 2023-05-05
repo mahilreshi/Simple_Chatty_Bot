@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: input()
+- text: integer(input())
+- text: str(input())
+- text: print(input())
+- text: int(input())
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6807#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 03 May 2023 19:21:31 UTC"
+record: -1
+selected_options:
+- 4
+local_check: false
