@@ -115,5 +115,8 @@ files:
         ChattyBotTest('bot.bot').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/97/stages/537/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 05 May 2023 08:32:46 UTC"
+record: 4
